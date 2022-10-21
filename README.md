@@ -3,13 +3,13 @@
 <img align="right" alt="Coding" width="400" src="https://upload-assets.vice.com/files/2016/07/22/1469204807jdvelez.gif">
 
 
-- 🌱 I’m currently learning **Probabilistic Robotics, Visual SLAM, ROS**
+- 🌱 I’m currently learning **Visual SLAM and Data Association**
 
 - 💬 Ask me about **ROS, Mobile Robots, Computer Vision**
 
 - 📫 How to reach me **abdulahad01@ieee.org**
 
-- 📄 Know about my experiences [My resume](https://drive.google.com/file/d/1IJZ_1whSc7UQ0VB3om1Lm6KkDnFBJx4B/view?usp=sharing)
+- 📄 Know about my experiences [My resume](https://drive.google.com/file/d/1dzx0laHHZTCPFbmX2rsm-6mN6csGp-Th/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
